@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++/C# for game development**
 
-- 👨‍💻 All of my projects are available at [my github page](my github page)
+- 👨‍💻 All of my projects are available at [github.com/itsmehecker](github.com/itsmehecker)
 
 - 💬 Ask me about **cybersecurity and subnetting**
 
