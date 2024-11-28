@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/itsmehecker](github.com/itsmehecker)
 
-- 💬 Ask me about **cybersecurity and subnetting**
+- 💬 Ask me about **cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
