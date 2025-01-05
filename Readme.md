@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vaishnav</h1>
-<h3 align="center">Student who likes coding</h3>
-
-
-
 - 🌱 I’m currently learning **C++/C# for game development**
 
 - 👨‍💻 All of my projects are available at [github.com/itsmehecker](github.com/itsmehecker)
